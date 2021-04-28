@@ -1,0 +1,68 @@
+body{
+    font-family:monospace;
+    margin:0px
+}
+
+#top {
+    text-align:center
+}
+
+#logo{
+  color:black;
+  background-color:mediumspringgreen;
+  display: inline-block;
+  font-size:40px;
+  font-weight: bold;
+  font-family:monospace;
+  padding: 8px;
+  margin-top:16px;
+
+}
+
+#logo-name {
+  font-size: 40px;
+  font-weight: bold;
+  margin: 16px;
+
+}
+
+#navigation a {
+    color:black;
+    padding: 8px;
+
+}
+
+#navigation a:hover {
+    color:mediumspringgreen
+}
+
+#top-image img {
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+
+}
+
+#main {
+    max-width: 800px;
+}
+
+table {
+    font-size: 32px;
+    font-family:monospace;
+    width:80%;
+    margin:10px auto;
+}
+
+#Wochenplan {
+    height:auto;
+    width:auto;
+    margin-top:16px;
+    margin-bottom:16px;
+    
+}
+
+#Discord {
+    margin-top: 60px;
+    margin: bottom 60px;
+}
